@@ -1,2 +1,2 @@
-Project Overview 
+Project Overview :
 A modern, fully responsive landing page built as Task 1 for a Full Stack Web Development Internship. The project is designed to showcase core frontend fundamentals including semantic HTML, modern CSS styling, flexible layout techniques, and UI/UX best practices.Key Features & Skills Demonstrated:Semantic HTML5: Clean, accessible markup.Modern CSS3: Leveraging CSS Grid and Flexbox for fluid layouts.Responsive Design: Mobile-first approach ensuring excellent scaling across all devices.Dynamic UI Components: Interactive dropdown navigation, CSS-driven gradients, hover-state animations, and smooth transitions.Typography & Icons: Polished typography using Google Fonts and scalable vector icons via FontAwesome.
